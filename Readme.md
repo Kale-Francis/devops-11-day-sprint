@@ -17,6 +17,6 @@ Learning devops in 11 days is toruture right ? Wrong am trying to teach myself f
 
 ## Author
 - Kale-Francis
-- Founder, Nexonic Industries
+- Founder, Nexonic Industries (https://nexonic-industries.vercel.app/)
 - Email: kalefrancis989@gmail.com
 - GitHub: https://github.com/Kale-Francis
