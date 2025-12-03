@@ -15,8 +15,8 @@ Learning devops in 11 days is toruture right ? Wrong am trying to teach myself f
 - Process Management: Uvicorn / Gunicorn + Supervisor (Planned)
 - Security: SSL (Let`s Encrypt), Firewall (UFW) (Planned)
 
-Author
-Kale-Francis
-Founder, Nexonic Industries
-Email: kalefrancis989@gmail.com
-GitHub: https://github.com/Kale-Francis
+## Author
+- Kale-Francis
+- Founder, Nexonic Industries
+- Email: kalefrancis989@gmail.com
+- GitHub: https://github.com/Kale-Francis
