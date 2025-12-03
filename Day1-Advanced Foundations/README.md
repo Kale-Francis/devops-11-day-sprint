@@ -69,13 +69,13 @@
 
 **Directory structure :**
 
-├── .gitignore
-├── env_checker.sh
-├── disk_report.sh
-├── log_archive.sh
-├── ping_test.sh
-├── process_snapshot.txt
-├── archive/
-│   └── 2025-12-03/ 
-└── theory/
-└── boot_sequence.md
+- ├── .gitignore
+- ├── env_checker.sh
+- ├── disk_report.sh
+- ├── log_archive.sh
+- ├── ping_test.sh
+- ├── process_snapshot.txt
+- ├── archive/
+- │   └── 2025-12-03/ 
+- └── theory/
+- └── boot_sequence.md
